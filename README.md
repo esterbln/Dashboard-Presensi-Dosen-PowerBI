@@ -4,7 +4,7 @@ Dashboard interaktif untuk memantau kehadiran dosen di Universitas Bandar Lampun
 
 Proyek ini merupakan bagian dari Penulisan Ilmiah berjudul *"Analisis Penggunaan OLAP untuk Monitoring Presensi Dosen"* (Program Studi Sistem Informasi, Fakultas Ilmu Komputer, Universitas Bandar Lampung, 2025).
 
-![Tampilan Dashboard](dashboard.png)
+![Tampilan Dashboard](dashboard.png.png)
 
 ## Latar Belakang
 
@@ -76,7 +76,7 @@ Satu tabel fakta (`TabelFakta`) dihubungkan dengan tabel dimensi:
 - `DimensiWaktu`
 - `DataFingerprint`
 
-![Skema Bintang](star-schema.png)
+![Skema Bintang](star-schema.png.png)
 
 ## Contoh Measure DAX
 
