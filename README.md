@@ -127,6 +127,7 @@ DIVIDE(
 ## Penulis
 
 **Ester Belen Wijaya** | Program Studi Sistem Informasi, Universitas Bandar Lampung
+
 LinkedIn: (https://www.linkedin.com/in/ester-belen-wijaya-857951233/?isSelfProfile=true)
 
 Dosen Pembimbing: Ayu Kartika Puspa, S.Kom., M.T.I.
