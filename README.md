@@ -6,6 +6,11 @@ Proyek ini merupakan bagian dari Penulisan Ilmiah berjudul *"Analisis Penggunaan
 
 ![Tampilan Dashboard](dashboard.png.png)
 
+
+Uploading MONITORING PRESENSI DOSEN - dashboard PI - Power BI - Profil 1 - Microsoft​ Edge 2026-10-08 10-51-41.mp4…
+
+
+
 ## Latar Belakang
 
 Rekap presensi dosen dari mesin fingerprint sebelumnya diolah manual di Excel. Cara ini memakan waktu (sekitar 4 hari untuk rekap 1 minggu data), rentan human error, dan sulit dianalisis. Dashboard ini dibuat agar pihak manajemen dapat melihat pola kehadiran dosen secara visual, dinamis, dan interaktif.
