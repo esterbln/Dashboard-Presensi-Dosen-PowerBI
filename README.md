@@ -5,10 +5,7 @@ Dashboard interaktif untuk memantau kehadiran dosen di Universitas Bandar Lampun
 Proyek ini merupakan bagian dari Penulisan Ilmiah berjudul *"Analisis Penggunaan OLAP untuk Monitoring Presensi Dosen"* (Program Studi Sistem Informasi, Fakultas Ilmu Komputer, Universitas Bandar Lampung, 2025).
 
 ![Tampilan Dashboard](dashboard.png.png)
-
-
-Uploading MONITORING PRESENSI DOSEN - dashboard PI - Power BI - Profil 1 - Microsoft​ Edge 2026-10-08 10-51-41.mp4…
-
+[![Demo Dashboard](images/thumbnail.png)](https://youtu.be/YMJkGhaIAN0)
 
 
 ## Latar Belakang
